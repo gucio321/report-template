@@ -1,7 +1,14 @@
 ---
 title: Untitled
+faculty: Fizyki i Informatyki Stosowanej
+groupN: 2 
+# Numer zespołu [jeżeli dotyczy]
+teamN: 2 
+subject: "Matematyczne Metody Fizyki"
+topic: "Rozwiązywanie Równania Schrödingera"
+labN: 2
 format:
-  Lab Report Template-pdf: default
+  lab-report-template-pdf: default
 author: gucio321
 date: last-modified
 ---
