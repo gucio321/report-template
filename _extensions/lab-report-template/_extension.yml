@@ -1,10 +1,29 @@
-title: Lab Report Template
+title: lab-report-template
 author: gucio321
 version: 1.0.0
 quarto-required: ">=1.10.0"
 contributes:
   formats:
     pdf:
-      toc: true
+      papersize: A4
+      toc: false
       include-in-header: header.tex
+
+      geometry:
+        - top=1.5cm
+        - left=2.0cm
+        - right=2.0cm
+        - bottom=1.5cm
+
+      
+      cite-method: biblatex
+      biblatexoptions:
+        - backref=true
+        - backend=biber
+        - style=authoryear
+        - natbib=true
+      bibliography: refs.bib
+      template-partials:
+        - before-body.tex
+
 
