@@ -2,23 +2,17 @@
 
 ## Installing
 
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/lab-report-template
+quarto use template gucio321/lab-report-template
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
 
 ## Using
 
-*TODO*: Describe how to use your format.
-
-## Format Options
-
-*TODO*: If your format has options that can be set via document metadata, describe them.
+Fill variables in the header of your file with your lab metadata.
 
 ## Example
 
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
+Here is the source code for a minimal sample document: [template.qmd](template.qmd).
 
