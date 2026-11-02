@@ -7,7 +7,11 @@ authors = [
     { name = "gucio321", email = "73652197+gucio321@users.noreply.github.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "nbclient>=0.11.0",
+    "nbformat>=5.11.1",
+    "pyyaml>=6.0.3",
+]
 
 [project.scripts]
 dummy = "dummy:main"
