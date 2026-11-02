@@ -3,7 +3,7 @@
 ## Installing
 
 ```bash
-quarto use template gucio321/lab-report-template
+quarto use template gucio321/report-template@master
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
