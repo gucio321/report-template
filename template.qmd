@@ -7,6 +7,7 @@ teamN: 2
 subject: "Matematyczne Metody Fizyki"
 topic: "Rozwiązywanie Równania Schrödingera"
 labN: 2
+lang: 'pl'
 format:
   report-template-pdf: default
 author: gucio321
