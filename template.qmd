@@ -8,6 +8,7 @@ subject: "Matematyczne Metody Fizyki"
 topic: "Rozwiązywanie Równania Schrödingera"
 labN: 2
 lang: 'pl'
+number-sections: true
 format:
   report-template-pdf: default
 author: gucio321
